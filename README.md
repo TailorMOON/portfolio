@@ -1,6 +1,6 @@
 # Portfolio
 
-This repository showcases a growing collection of projects, experiments, and technical explorations across the field of computer science.
+This repository showcases a growing collection of projects, and technical explorations across the field of computer science.
 
 ## Areas of Interest
 
