@@ -14,8 +14,8 @@ This repository showcases a growing collection of projects, and technical explor
 
 | Project | Description | Tech | Preview | Repository |
 |---------|-------------|------|:-------:|:----------:|
-| **HRMS (Human Resource Management System)** | Enterprise HR platform featuring employee management, attendance tracking via JWT-based QR check-in (short-lived, signed tokens delivered by email), and approval-gated workflows for sensitive data changes. | • Next.js<br>• Golang<br>• MySQL<br>• JWT | [View](https://github.com/TailorMOON/portfolio/tree/main/preview/hrms) | [View](https://github.com/TailorMOON) |
-| **Return Management System** | Enterprise return management platform featuring a guided return workflow (Invoice → Product → Batch), layered business validation, and secure dual-token (access + refresh) JWT-based authentication. | • Next.js<br>• Python (FastAPI)<br>• MySQL<br>• JWT | [View](https://github.com/TailorMOON/portfolio/tree/main/preview/return-management-system) | [View](https://github.com/TailorMOON) |
+| **HRMS (Human Resource Management System)** | Enterprise HR platform featuring employee management, JWT-based QR attendance tracking with short-lived signed tokens, and approval workflows for sensitive employee data changes. | • Next.js<br>• Golang<br>• MySQL<br>• JWT | [View](https://github.com/TailorMOON/portfolio/tree/main/preview/hrms) | [View](https://github.com/TailorMOON) |
+| **Return Management System** | Enterprise return management platform featuring a guided return workflow (Invoice → Product → Batch), layered business validation, and secure dual-token (access + refresh) JWT authentication. | • Next.js<br>• Python (FastAPI)<br>• MySQL<br>• JWT | [View](https://github.com/TailorMOON/portfolio/tree/main/preview/return-management-system) | [View](https://github.com/TailorMOON) |
 
 
 ## Contact
